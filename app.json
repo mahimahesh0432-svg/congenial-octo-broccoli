@@ -1,7 +1,7 @@
 {
   "expo": {
     "name": "go-ride-app-",
-    "slug": "congenial-octo-broccoli",
+    "slug": "go-ride-",
     "version": "1.0.0",
     "orientation": "portrait",
     "userInterfaceStyle": "light",
@@ -10,6 +10,11 @@
       "package": "com.maheshgoride.app",
       "adaptiveIcon": {
         "backgroundColor": "#ffffff"
+      }
+    },
+    "extra": {
+      "eas": {
+        "projectId": "5a46b2cf-31ee-4923-a102-2e537e6ba512"
       }
     }
   }
